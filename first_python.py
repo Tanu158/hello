@@ -36,8 +36,8 @@ print(houses['harmaeni'])
 
 
 def sum(a,b):
-    print(a+b)
+    print(f"the square of no is{a+b}")
 
-sum(1,2)
+# sum(1,2)
 
 
